@@ -1,0 +1,21 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# VS Code
+.vscode/
+
+# Operating System files
+Thumbs.db
+.DS_Store
+
+# Training outputs (logs, checkpoints, etc.)
+runs/
