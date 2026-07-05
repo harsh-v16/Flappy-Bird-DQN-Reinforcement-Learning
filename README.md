@@ -40,7 +40,9 @@ This project demonstrates the complete Deep Reinforcement Learning pipeline incl
 
 
 
-![Gameplay](images/gameplay.gif)
+<p align="center">
+  <img src="images/gameplay.gif" alt="Flappy Bird Gameplay" width="350">
+</p>
 
 
 The GIF above demonstrates the trained DQN agent after **135,000 training episodes**, successfully navigating through multiple pipes.
